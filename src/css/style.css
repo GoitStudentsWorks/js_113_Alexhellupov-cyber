@@ -1,3 +1,5 @@
+@import url('./base.css');
+/* Sections style */
 @import url('./header.css');
 @import url('./header-menu.css');
 @import url('./hero.css');
@@ -9,5 +11,5 @@
 @import url('./covers.css');
 @import url('./reviews.css');
 @import url('./work-together.css');
-@import url('./footer-overlay.css');
+
 @import url('./colors.css');
