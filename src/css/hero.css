@@ -16,8 +16,9 @@
 
 .hero {
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-blend-mode: overlay;
+    background-position: center;
     background-image: url('../img/hero/hero_red_mob.jpg');
 }
 
