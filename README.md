@@ -1,4 +1,19 @@
-# Vanilla App Template
+над проєктом працювали:
 
-Цей проект було створено за допомогою Vite. Для знайомства та налаштування
-додаткових можливостей [звернись до документації](https://vitejs.dev/).
+Ющенко Олександр            https://github.com/Alexhellupov-cyber
+Team-Lead
+
+Дудак Віолета               https://github.com/violettadudiak0210
+Scrum Master
+
+Воробьйов Дмитро            https://github.com/DmytroVorobiov1212
+developer
+
+Гнатенко Олена              https://github.com/HnatenkoOlya
+developer
+
+Капиця Іван                 https://github.com/IvanKapytsia
+developer
+
+Євгеній Голубничий          https://github.com/Y-Holubnychyi
+developer
