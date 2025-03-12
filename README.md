@@ -1,19 +1,19 @@
 над проєктом працювали:
 
-Ющенко Олександр            https://github.com/Alexhellupov-cyber
-Team-Lead
+Ющенко Олександр            
+Team-Lead                   https://github.com/Alexhellupov-cyber
 
-Дудак Віолета               https://github.com/violettadudiak0210
-Scrum Master
+Дудак Віолета               
+Scrum Master                https://github.com/violettadudiak0210
 
-Воробьйов Дмитро            https://github.com/DmytroVorobiov1212
-developer
+Воробьйов Дмитро            
+developer                   https://github.com/DmytroVorobiov1212
 
-Гнатенко Олена              https://github.com/HnatenkoOlya
-developer
+Гнатенко Олена              
+developer                   https://github.com/HnatenkoOlya
 
-Капиця Іван                 https://github.com/IvanKapytsia
-developer
+Капиця Іван                 
+developer                   https://github.com/IvanKapytsia
 
-Голубничий Євгеній          https://github.com/Y-Holubnychyi
-developer
+Голубничий Євгеній          
+developer                   https://github.com/Y-Holubnychyi
