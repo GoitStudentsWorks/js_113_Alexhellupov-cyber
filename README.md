@@ -15,5 +15,5 @@ developer
 Капиця Іван                 https://github.com/IvanKapytsia
 developer
 
-Євгеній Голубничий          https://github.com/Y-Holubnychyi
+Голубничий Євгеній          https://github.com/Y-Holubnychyi
 developer
