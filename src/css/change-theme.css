@@ -1,5 +1,3 @@
-/* Button change theme */
-
 .theme-buttons {
     position: absolute;
     bottom: 80px;
@@ -81,10 +79,6 @@
     transition: scale var(--timing-function);
 }
 
-
-
-/* Burger menu background */
-
 .theme-red[data-theme-burg-menu] {
     background-image: url('../img/hero/burg-menu_red.png');
 }
@@ -136,7 +130,6 @@
     }
 }
 
-/* animation background */
 [data-theme-hero] {
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,7 +137,6 @@
     transition: background-image var(--timing-function);
 }
 
-/* background */
 .theme-red[data-theme-hero] {
     background-image: url('../img/hero/hero_red_mob.png');
 }
@@ -324,8 +316,6 @@
         background-image: url('../img/hero/hero_yellow_3x.png');
     }
 }
-
-/* Change color btn */
 .theme-red[data-theme-btn] {
     color: var(--white);
     background-color: var(--red);
@@ -411,8 +401,6 @@
     background-color: #AC5300;
 }
 
-/* Change color text */
-
 .theme-red:hover[data-theme-text] {
     color: var(--red);
 }
@@ -485,8 +473,6 @@
     color: #FF7F08;
 }
 
-/* Change color text SPAN */
-
 .theme-red[data-theme-text-span] {
     color: var(--red);
     transition: color var(--timing-function);
@@ -516,8 +502,6 @@
     color: #FF7F08;
     transition: color var(--timing-function);
 }
-
-/* Change color SVG */
 
 .theme-red[data-theme-text-svg] {
     background: var(--red);
@@ -549,8 +533,6 @@
     transition: color var(--timing-function);
 }
 
-/* Change color Swiper-active */
-
 .swiper-slide-active.theme-red[data-theme-swiper-active] {
     background-color: var(--red);
     transition: background-color var(--timing-function);
@@ -580,8 +562,6 @@
     background-color: #FF7F08;
     transition: background-color var(--timing-function);
 }
-
-/* Change color border Up Btn */
 
 .theme-red[data-theme-btn-up] {
     border-color: var(--red);

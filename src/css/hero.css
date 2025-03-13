@@ -27,7 +27,6 @@
   }
 }
 
-/* Mobile/H1 */
 .header-1 {
   font-size: 50px;
   font-weight: 500;
@@ -36,7 +35,6 @@
   text-transform: uppercase;
 }
 
-/* Desktop_Tablet/H1 */
 @media only screen and (min-width: 768px) {
   .header-1 {
     font-size: 90px;
@@ -135,7 +133,6 @@
   }
 }
 
-/* Mobile */
 .container-hero {
   position: relative;
   min-width: 320px;
@@ -145,7 +142,6 @@
   margin: 0 auto;
 }
 
-/* Tablet */
 @media only screen and (min-width: 768px) {
   .container-hero {
     max-width: 768px;
@@ -153,7 +149,6 @@
   }
 }
 
-/* Desktop */
 @media only screen and (min-width: 1440px) {
   .container-hero {
     max-width: 1440px;

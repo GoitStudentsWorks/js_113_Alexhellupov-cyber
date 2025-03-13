@@ -7,7 +7,6 @@
     z-index: 9999;
 }
 
-/* Mobile */
 .container-head {
     min-width: 320px;
     max-width: 375px;
@@ -16,7 +15,6 @@
     margin: 0 auto;
 }
 
-/* Tablet */
 @media only screen and (min-width: 768px) {
     .container-head {
         max-width: 768px;
@@ -24,7 +22,6 @@
     }
 }
 
-/* Desktop */
 @media only screen and (min-width: 1440px) {
     .container-head {
         max-width: 1440px;

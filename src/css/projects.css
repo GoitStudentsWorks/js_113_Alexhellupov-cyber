@@ -1,4 +1,3 @@
-/* #region mob */
 .projects {
   padding-top: 32px;
   padding-bottom: 32px;
@@ -27,7 +26,6 @@
 .swiper-wrapper {
   margin-bottom: 32px;
 }
-
 
 .swiper-wrapper.proj-wrapper .swiper-slide {
   width: 100%;
@@ -116,9 +114,7 @@
 .proj-btn-disabled .proj-svg {
   stroke: #3b3b3b;
 }
-/* #endregion mob */
 
-/* #region tab */
 @media screen and (min-width: 768px) {
   .projects {
     padding: 48px 0;
@@ -177,9 +173,7 @@
     height: 32px;
   }
 }
-/* #endregion tab */
 
-/* #region desk */
 @media screen and (min-width: 1440px) {
   .projects {
     padding: 82px 0;
@@ -209,4 +203,4 @@
     width: 50%;
   }
 }
-/* #endregion desk */
+

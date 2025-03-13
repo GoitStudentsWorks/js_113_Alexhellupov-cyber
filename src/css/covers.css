@@ -24,7 +24,6 @@
   width: 283px;
   height: 163px;
   animation-name: inViewport;
-  /* animation-timing-function: ease-in-out; */
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
@@ -46,8 +45,6 @@
     transform: translateX(50%);
   }
 }
-
-/* MEDIA */
 @media screen and (min-width: 768px) {
   .covers-container {
     max-height: 960px;
@@ -69,7 +66,7 @@
   }
 }
 
-@media /* Retina ONLY*/ only screen and (-webkit-min-device-pixel-ratio: 2),
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
   only screen and (min--moz-device-pixel-ratio: 2),
   only screen and (min-device-pixel-ratio: 2),
   only screen and (-webkit-min-device-pixel-ratio: 2),

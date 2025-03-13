@@ -1,10 +1,8 @@
-/* FAQ section general styles */
 .faq-section {
   margin: 0 auto;
   padding: 32px 0 64px 0;
 }
 
-/* FAQ container for small screens */
 .container.faq-container {
   margin: 0 auto;
   padding: 0 16px;
@@ -14,7 +12,6 @@
   gap: 32px;
 }
 
-/* FAQ title styles */
 .faq-title {
   margin: 0;
   padding: 0;
@@ -25,7 +22,6 @@
   letter-spacing: -0.32px;
 }
 
-/* FAQ item container styles */
 ul.accordion-container li.ac.faq-item-container {
   margin: 0;
   padding: 20px 0;
@@ -36,7 +32,6 @@ ul.accordion-container li.ac.faq-item-container {
   border-bottom: 1px solid rgba(250, 250, 250, 0.2);
 }
 
-/* FAQ button styles */
 ul.accordion-container li.ac button.ac-trigger.faq-button {
   margin: 0;
   padding: 0;
@@ -49,12 +44,10 @@ ul.accordion-container li.ac button.ac-trigger.faq-button {
   letter-spacing: -0.4px;
 }
 
-/* Focus state for FAQ button */
 ul.accordion-container li.ac button.ac-trigger.faq-button:focus {
   color: #fafafa;
 }
 
-/* Pseudo-element ::after for the FAQ button */
 ul.accordion-container li.ac .ac-trigger.faq-button::after {
   content: '';
   position: absolute;
@@ -78,7 +71,6 @@ ul.accordion-container li.ac .ac-trigger.faq-button:hover::after {
   transition: transform 0.3s ease-in-out;
 }
 
-/* Active state for FAQ button pseudo-element */
 ul.accordion-container
   li.ac.is-active
   > .ac-header
@@ -90,7 +82,6 @@ ul.accordion-container li.ac.is-active .faq-arrow-icon {
   transform: rotate(-180deg);
 }
 
-/* FAQ text inside the accordion panel */
 ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
   margin-top: 16px;
   padding: 0;
@@ -102,7 +93,6 @@ ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
   letter-spacing: -0.32px;
 }
 
-/* Medium screen adjustments */
 @media only screen and (min-width: 768px) {
   .faq-section.section {
     padding-top: 0;
@@ -141,7 +131,6 @@ ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
   }
 }
 
-/* Large screen adjustments */
 @media screen and (min-width: 1440px) {
   .faq-section.section {
     padding-bottom: 82px;
@@ -167,7 +156,6 @@ ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
     padding-right: 32px;
   }
 
-  /* FAQ button padding adjustment */
   ul.accordion-container li.ac button.ac-trigger.faq-button {
     padding-right: 82px;
   }
@@ -180,7 +168,6 @@ ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
     right: 52px;
   }
 
-  /* left column */
   ul.accordion-container li:nth-child(1) {
     order: 1;
   }
@@ -202,7 +189,6 @@ ul.accordion-container li.ac .ac-panel p.ac-text.faq-text {
     border-right: 1px solid rgba(250, 250, 250, 0.2);
   }
 
-  /* right column */
   ul.accordion-container li:nth-child(4) {
     order: 2;
   }
